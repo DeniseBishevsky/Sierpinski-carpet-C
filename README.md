@@ -12,8 +12,8 @@ Level 2:
 
 
 Level 3:
-![level3](https://github.com/DeniseBishevsky/Sierpinski-carpet-C/blob/main/img/level3.jpeg)
+![level3](https://github.com/DeniseBishevsky/Sierpinski-carpet-C/blob/main/img/level%203.jpeg)
 
 
 Level 4:
-![level4](https://github.com/DeniseBishevsky/Sierpinski-carpet-C/blob/main/img/level4.jpeg)
+![level4](https://github.com/DeniseBishevsky/Sierpinski-carpet-C/blob/main/img/level%204.jpeg)
